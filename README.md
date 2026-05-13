@@ -1,0 +1,2 @@
+![image alt](https://github.com/sahiliqbql/AI-Based-Heart-Disease-Prediction-and-Lifestyle-Recommendation-System/blob/b3bb4cacbfec68d57bff9e61428a7948b44dfc7e/img/Screenshot%202026-03-30%20224742.png)
+![image alt](https://github.com/sahiliqbql/AI-Based-Heart-Disease-Prediction-and-Lifestyle-Recommendation-System/blob/b3bb4cacbfec68d57bff9e61428a7948b44dfc7e/img/Screenshot%202026-03-30%20224758.png)
